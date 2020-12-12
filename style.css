@@ -1,0 +1,14 @@
+body {
+    background-color: #212529; 
+}
+footer {
+    padding: 10px;
+}
+footer .social-icon img {
+    padding: 10px;
+    border: 1px solid #aaaaaa; 
+    border-radius: 5px;
+}
+footer .social-icon img:hover {
+    background-color: #ccc12c;
+}
